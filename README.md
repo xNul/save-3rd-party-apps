@@ -13,9 +13,9 @@ Also, if you know of any subreddits which have decided to not participate in the
 save3rdpartyapps.com is a static website generated from a template and list of participating subreddits. First, we generate the list of subreddits that are participating. Second, we use that list to generate the website from the template.
 
 Steps:
-1. Copy and paste the latest participating subreddits from the [list](https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/) into `_data/top_part_subs.txt`.
-2. Run the `get_part_250_subs.py` script with `python _scripts/get_part_250_subs.py > _data/part_250_subs.txt`. We now have our list of top 250 participating subreddits in `_data/part_250_subs.txt`.
-3. Run the `update_part_250_subs.py` script with `python update_part_250_subs.py` which generates `index.html` from our list and `_data/template.html`.
+1. Copy and paste the latest participating subreddits from the [list](https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/) into `_data/top_part_subs.txt`
+2. To generate our list, run `python _scripts/get_part_250_subs.py > _data/part_250_subs.txt`
+3. To generate our `index.html`, run `python update_part_250_subs.py`
 
 All done!
 
