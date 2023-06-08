@@ -16,9 +16,11 @@ r/Futurology
 r/tifu
 r/history
 r/nosleep
+r/InternetIsBeautiful
 r/creepy
 r/lifehacks
 r/Unexpected
+r/NatureIsFuckingLit
 r/AnimalsBeingDerps
 r/nba
 r/HistoryMemes
@@ -27,6 +29,7 @@ r/ContagiousLaughter
 r/AnimalsBeingBros
 r/CryptoCurrency
 r/buildapc
+r/AnimalsBeingJerks
 r/FoodPorn
 r/PS4
 r/AskWomen
@@ -37,6 +40,7 @@ r/HumansBeingBros
 r/cars
 r/rarepuppers
 r/woodworking
+r/europe
 r/drawing
 r/soccer
 r/HomeImprovement
@@ -65,12 +69,15 @@ r/howto
 r/pcgaming
 r/formula1
 r/raspberry_pi
+r/marvelstudios
 r/DnD
 r/Frugal
 r/ProgrammerHumor
+r/teenagers
 r/somethingimade
 r/youtubehaiku
 r/ChildrenFallingOver
+r/StarWars
 r/DestinyTheGame
 r/mac
 r/atheism
@@ -89,4 +96,3 @@ r/Design
 r/wow
 r/whatisthisthing
 r/MMA
-r/AnimalsBeingJerks
