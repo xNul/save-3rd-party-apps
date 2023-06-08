@@ -1,6 +1,3 @@
-### Analytics ###
-google_analytics: G-CQZE2NTZ78
-
 ### Exclude from processing ###
 exclude:
   - README.md
