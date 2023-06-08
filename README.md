@@ -17,7 +17,7 @@ Steps:
 2. To generate our list, run `python _scripts/get_part_250_subs.py > _data/part_250_subs.txt`
 3. To generate our `index.html`, run `python update_part_250_subs.py`
 
-All done!
+Throw that `index.html` on a web server and you're all done!
 
 ## Contributing
 
