@@ -20,6 +20,7 @@ r/creepy
 r/lifehacks
 r/Unexpected
 r/AnimalsBeingDerps
+r/nba
 r/HistoryMemes
 r/anime
 r/ContagiousLaughter
@@ -37,11 +38,13 @@ r/cars
 r/rarepuppers
 r/woodworking
 r/drawing
+r/soccer
 r/HomeImprovement
 r/cats
 r/apple
 r/Eyebleach
 r/MovieDetails
+r/xboxone
 r/boardgames
 r/reactiongifs
 r/battlestations
@@ -86,3 +89,4 @@ r/Design
 r/wow
 r/whatisthisthing
 r/MMA
+r/AnimalsBeingJerks
