@@ -1,4 +1,5 @@
 exclude:
-  - *
+  - LICENSE
+  - README.md
 include:
   - index.html
