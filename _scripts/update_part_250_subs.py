@@ -8,7 +8,7 @@ template_file = template_file_file.read()
 
 # Color codes the subreddits on the list
 for subreddit in part_250_subs:
-    template_file = template_file.replace("data-prefixed-name=\"" + subreddit + "\"", "data-prefixed-name=\"r/" + subreddit + "\"\n      style=\"background: green\"")
+    template_file = template_file.replace("data-prefixed-name=\"" + subreddit + "\"", "data-prefixed-name=\"" + subreddit + "\"\n      class=\"flex flex-wrap justify-center py-[0.75rem] participating\"")
 
 # Write out the resulting HTML website
 index_file_file = open("../index.html", "w", encoding="utf-8")
