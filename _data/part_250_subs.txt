@@ -16,11 +16,14 @@ r/Futurology
 r/tifu
 r/history
 r/nosleep
+r/philosophy
 r/InternetIsBeautiful
 r/creepy
+r/interestingasfuck
 r/lifehacks
 r/Unexpected
 r/NatureIsFuckingLit
+r/Damnthatsinteresting
 r/AnimalsBeingDerps
 r/nba
 r/HistoryMemes
@@ -28,6 +31,7 @@ r/anime
 r/ContagiousLaughter
 r/AnimalsBeingBros
 r/CryptoCurrency
+r/tattoos
 r/buildapc
 r/AnimalsBeingJerks
 r/FoodPorn
@@ -81,6 +85,8 @@ r/StarWars
 r/DestinyTheGame
 r/mac
 r/atheism
+r/horror
+r/writing
 r/suggestmeabook
 r/likeus
 r/maybemaybemaybe
@@ -89,10 +95,13 @@ r/antiwork
 r/hacking
 r/ThriftStoreHauls
 r/technicallythetruth
+r/indieheads
 r/electronicmusic
+r/crafts
 r/Marvel
 r/PrequelMemes
 r/Design
+r/meirl
 r/wow
 r/whatisthisthing
 r/MMA
