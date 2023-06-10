@@ -107,11 +107,12 @@ r/whatisthisthing
 r/MMA
 r/terriblefacebookmemes
 r/running
-r/campingandhiking
+r/CampingandHiking
 r/humor
-r/deepintoyoutube
-r/economics
+r/DeepIntoYouTube
+r/Economics
 r/camping
 r/spaceporn
 r/nfl
 r/streetwear
+r/me_irl
