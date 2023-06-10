@@ -10,6 +10,9 @@ template_file = template_file_file.read()
 for subreddit in part_250_subs:
     template_file = template_file.replace("data-prefixed-name=\"" + subreddit + "\"", "data-prefixed-name=\"" + subreddit + "\"\n      class=\"flex flex-wrap justify-center py-[0.75rem] participating\"")
 
+# Adds the fraction of subreddits which are participating
+template_file = template_file.replace("{{GOING_DARK_FRACTION}}", "(" + str(len(part_250_subs)) + "/250)")
+
 # Write out the resulting HTML website
 index_file_file = open("../index.html", "w", encoding="utf-8")
 index_file_file.write(template_file)
