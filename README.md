@@ -14,7 +14,7 @@ save3rdpartyapps.com is a static website generated from a template and list of p
 
 Steps:
 1. Copy and paste the latest participating subreddits from the [list](https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/) into `_data/top_part_subs.txt`
-2. To generate our list, run `python _scripts/get_part_250_subs.py > _data/part_250_subs.txt`
+2. To generate our list, run `python _scripts/get_part_250_subs.py`
 3. To generate our `index.html`, run `python update_part_250_subs.py`
 
 Throw that `index.html` on a web server and you're all done!
