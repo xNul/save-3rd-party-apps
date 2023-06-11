@@ -5,6 +5,7 @@ r/Music
 r/todayilearned
 r/pics
 r/videos
+r/space
 r/food
 r/EarthPorn
 r/Art
@@ -23,6 +24,7 @@ r/nosleep
 r/philosophy
 r/InternetIsBeautiful
 r/creepy
+r/wholesomememes
 r/interestingasfuck
 r/lifehacks
 r/Unexpected
@@ -39,6 +41,7 @@ r/CryptoCurrency
 r/tattoos
 r/buildapc
 r/AnimalsBeingJerks
+r/EatCheapAndHealthy
 r/FoodPorn
 r/Tinder
 r/WatchPeopleDieInside
@@ -84,6 +87,8 @@ r/socialskills
 r/CozyPlaces
 r/HolUp
 r/Sneakers
+r/coolguides
+r/recipes
 r/Fantasy
 r/Economics
 r/PS5
@@ -97,6 +102,7 @@ r/marvelstudios
 r/DnD
 r/MealPrepSunday
 r/Frugal
+r/frugalmalefashion
 r/DeepIntoYouTube
 r/HealthyFood
 r/ProgrammerHumor
@@ -113,6 +119,7 @@ r/horror
 r/writing
 r/suggestmeabook
 r/likeus
+r/MachineLearning
 r/maybemaybemaybe
 r/astrophotography
 r/antiwork
@@ -128,21 +135,16 @@ r/running
 r/PrequelMemes
 r/Design
 r/meirl
+r/javascript
 r/wow
 r/whatisthisthing
 r/MMA
+r/PremierLeague
 r/Physics
 r/ethtrader
 r/terriblefacebookmemes
 r/me_irl
 r/AmItheAsshole
 r/camping
-r/EatCheapAndHealthy
-r/wholesomememes
-r/frugalmalefashion
-r/recipes
-r/coolguides
-r/space
 r/Showerthoughts
-r/PremierLeague
 r/dankmemes
