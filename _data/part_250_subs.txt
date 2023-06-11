@@ -138,3 +138,4 @@ r/recipes
 r/coolguides
 r/HighQualityGifs
 r/pokemongo
+r/WatchPeopleDieInside
