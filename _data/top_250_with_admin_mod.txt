@@ -1,4 +1,3 @@
-r/AskReddit
 r/programming
 r/books
 r/FreeEBOOKS

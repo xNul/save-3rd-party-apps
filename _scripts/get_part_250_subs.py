@@ -7,7 +7,7 @@ top_part_subs = [line for line in top_part_subs if line.startswith("r/")]
 top_250_file = open("../_data/top_250.txt", "r")
 top_250 = [line.rstrip().lower() for line in top_250_file]
 
-# List of Top 250 Latest Subreddits with original names
+# List of Top 250 Largest Subreddits with original names
 top_250_file = open("../_data/top_250.txt", "r")
 top_250_notlower = [line.rstrip() for line in top_250_file]
 
