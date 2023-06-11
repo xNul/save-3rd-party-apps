@@ -8,7 +8,7 @@ top_250_with_admin_file = open("../_data/top_250_with_admin_mod.txt", "r", encod
 top_250_with_admin = [line.rstrip() for line in top_250_with_admin_file]
 top_250_with_admin = [(subreddit, "hasadmin") for subreddit in top_250_with_admin]
 
-combined_changes = part_250_subs + top_250_with_admin
+combined_changes = part_250_subs# + top_250_with_admin
 
 # Template Top 250 Subreddits HTML Website
 template_file_file = open("../_data/template.html", "r", encoding="utf-8")
