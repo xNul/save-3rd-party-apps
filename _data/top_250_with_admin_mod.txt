@@ -1,0 +1,7 @@
+r/AskReddit
+r/programming
+r/books
+r/FreeEBOOKS
+r/OutOfTheLoop
+r/science
+r/technology

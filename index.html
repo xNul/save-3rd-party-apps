@@ -39,31 +39,43 @@
 	  
 	  @media (prefers-color-scheme:light) {
 	    .participating {
-		  background: greenyellow
+        background: greenyellow;
 	    }
+      .hasadmin {
+        background: #FF7F7F;
+      }
 	  }
     
     @media (prefers-color-scheme:dark) {
       .participating {
-        background: green
+        background: darkgreen;
+      }
+      .hasadmin {
+        background: darkred;
       }
     }
     
     @media (prefers-color-scheme:light) {
       .partkey:before {
-        background: greenyellow
+        background: greenyellow;
+      }
+      .adminkey:before {
+        background: #FF7F7F;
       }
     }
     
     @media (prefers-color-scheme:dark) {
       .partkey:before {
-        background: green
+        background: darkgreen;
+      }
+      .adminkey:before {
+        background: darkred;
       }
     }
     
     .box {
       position: relative;
-      margin-left: 20px
+      margin-left: 20px;
     }
     
     .box:before {
@@ -254,7 +266,7 @@
       <h2 class="font-normal mt-2xs mx-0 text-neutral-content-weak text-12">The two-day blackout isn't the <i>goal,</i> and it isn't the end. Should things reach the 14th with no sign of Reddit choosing to fix what they've broken, we'll use the community and buzz we've built between then and now as a tool for further action. <a href="https://old.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/">Learn more.</a></h2>
       
       <h2 class="font-bold mt-m mb-2xs mx-0 text-14">Top Communities</h2>
-      <h2 class="font-normal mt-2xs mx-0 text-neutral-content-weak text-12"><span style="float:right"><div class="box partkey">&nbsp;= Going Dark (148/250)</div></span>Going dark participation status of Reddit's 250 largest communities</h2>
+      <h2 class="font-normal mt-2xs mx-0 text-neutral-content-weak text-12"><span style="float:right"><div class="box partkey">&nbsp;= Going Dark (148/250)</div><div class="box adminkey">&nbsp;= Has Admin as Mod</div></span>Going dark participation status of Reddit's 250 largest communities</h2>
     </header>
    
     <div class="community-list-container">
@@ -306,6 +318,7 @@
       data-active-count="53566"
       data-icon-url="https://styles.redditmedia.com/t5_2qh1i/styles/communityIcon_tijjpyw1qe201.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=c857d00c4475107dc03e4b2190f229bd6f6f9b18"
       data-prefixed-name="r/AskReddit"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="r/AskReddit is the place to ask and answer thought-provoking questions."
       data-subscribers-count="41217925"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -578,6 +591,7 @@ A place for really cute pictures and videos!"
       data-active-count="3144"
       data-icon-url="https://styles.redditmedia.com/t5_mouw/styles/communityIcon_xtjipkhhefi41.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=91c4b815296b8a25883236773a02537d716aa042"
       data-prefixed-name="r/science"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine…"
       data-subscribers-count="30158257"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -1049,6 +1063,7 @@ Please read the sidebar below for our rules."
       data-active-count="2658"
       data-icon-url="https://styles.redditmedia.com/t5_2qh4i/styles/communityIcon_d77x0sszups01.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=69490d328e3c306b8053e49efc587bcdf7fe5a8b"
       data-prefixed-name="r/books"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books…"
       data-subscribers-count="22555747"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -2054,6 +2069,7 @@ Officially pronounced with a hard &quot;J&quot;"
       data-active-count="14054"
       data-icon-url="https://b.thumbs.redditmedia.com/J_fCwTYJkoM-way-eaOHv8AOHoF_jNXNqOvPrQ7bINY.png"
       data-prefixed-name="r/technology"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues."
       data-subscribers-count="14309496"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -3640,6 +3656,7 @@ Videos of people laughing infectiously. No context required."
       data-active-count="2035"
       data-icon-url="https://styles.redditmedia.com/t5_2fwo/styles/communityIcon_1bqa1ibfp8q11.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=2e42e8638052983efa0a834ab4e0b2349a7f866b"
       data-prefixed-name="r/programming"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="Computer Programming"
       data-subscribers-count="5449974"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -6718,6 +6735,7 @@ News, results and discussion about the beautiful game."
       data-active-count="2484"
       data-icon-url="https://styles.redditmedia.com/t5_2xinb/styles/communityIcon_qqtvyeb0bj221.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=1edbbb79d734e64df55a17d3efd9fe7be130bbe3"
       data-prefixed-name="r/OutOfTheLoop"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="A subreddit to help you keep up to date with what&#39;s going on with reddit and other stuff."
       data-subscribers-count="3175882"
       class="flex flex-wrap justify-center py-[0.75rem]"
@@ -9684,6 +9702,7 @@ Tips, trip reports, back-country gear reviews, safety and news."
       data-active-count="298"
       data-icon-url="https://styles.redditmedia.com/t5_2r61s/styles/communityIcon_9jufwkeep7f41.jpeg?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;v=enabled&amp;s=4f4ca7c04c00d41b74268b04b1a16901c94f9e15"
       data-prefixed-name="r/FreeEBOOKS"
+      class="flex flex-wrap justify-center py-[0.75rem] hasadmin"
       data-public-description-text="Find great free ebooks!"
       data-subscribers-count="2285004"
       class="flex flex-wrap justify-center py-[0.75rem]"
