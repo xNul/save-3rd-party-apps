@@ -14,6 +14,7 @@ r/mildlyinteresting
 r/LifeProTips
 r/gadgets
 r/sports
+r/GetMotivated
 r/Futurology
 r/tifu
 r/listentothis
@@ -28,6 +29,7 @@ r/Unexpected
 r/NatureIsFuckingLit
 r/Damnthatsinteresting
 r/dadjokes
+r/AdviceAnimals
 r/AnimalsBeingDerps
 r/HistoryMemes
 r/anime
@@ -39,6 +41,7 @@ r/buildapc
 r/AnimalsBeingJerks
 r/FoodPorn
 r/Tinder
+r/WatchPeopleDieInside
 r/PS4
 r/gardening
 r/AskWomen
@@ -56,6 +59,7 @@ r/europe
 r/drawing
 r/soccer
 r/Overwatch
+r/pokemongo
 r/HomeImprovement
 r/cats
 r/streetwear
@@ -64,6 +68,7 @@ r/apple
 r/IdiotsInCars
 r/Eyebleach
 r/MovieDetails
+r/HighQualityGifs
 r/xboxone
 r/boardgames
 r/reactiongifs
@@ -90,8 +95,10 @@ r/formula1
 r/raspberry_pi
 r/marvelstudios
 r/DnD
+r/MealPrepSunday
 r/Frugal
 r/DeepIntoYouTube
+r/HealthyFood
 r/ProgrammerHumor
 r/teenagers
 r/humor
@@ -127,7 +134,7 @@ r/MMA
 r/Physics
 r/ethtrader
 r/terriblefacebookmemes
-r/camping
 r/me_irl
 r/AmItheAsshole
+r/camping
 r/EatCheapAndHealthy
