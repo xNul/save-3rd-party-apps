@@ -10,6 +10,7 @@ r/food
 r/EarthPorn
 r/Art
 r/books
+r/dataisbeautiful
 r/DIY
 r/explainlikeimfive
 r/mildlyinteresting
