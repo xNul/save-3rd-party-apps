@@ -195,10 +195,10 @@ r/loseit
 r/OutOfTheLoop
 r/ArtefactPorn
 r/BetterEveryLoop
-r/WhitePeopleTwitter
 r/Filmmakers
 r/anime_irl
 r/marvelmemes
 r/oddlyterrifying
 r/natureismetal
 r/Graffiti
+r/scifi
